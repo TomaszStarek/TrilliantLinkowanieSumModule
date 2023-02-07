@@ -1,0 +1,105 @@
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.exe
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.deps.json
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.runtimeconfig.json
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.pdb
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule_MarkupCompile.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule_MarkupCompile.lref
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.g.resources
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\refint\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.pdb
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\ref\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.CopyComplete
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.exe
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.deps.json
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.runtimeconfig.json
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.pdb
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule_MarkupCompile.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule_MarkupCompile.lref
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.g.resources
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.CopyComplete
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\refint\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.pdb
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\ref\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.exe
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.deps.json
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.runtimeconfig.json
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\SkanowanieTrillaintSumModule.pdb
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule_MarkupCompile.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule_MarkupCompile.lref
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.g.resources
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.csproj.CopyComplete
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\refint\SkanowanieTrillaintSumModule.dll
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.pdb
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\SkanowanieTrillaintSumModule.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\SkanowanieTrillaintSumModule - GetSerializePanel - zmiana kolejności\SkanowanieTrillaintSumModule\obj\Debug\net6.0-windows\ref\SkanowanieTrillaintSumModule.dll
